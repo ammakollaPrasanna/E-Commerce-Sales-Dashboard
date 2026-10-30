@@ -1,0 +1,576 @@
+ProductKey,ProductID,ProductName,Category,SubCategory,Brand,ListPrice
+1,P0001,Lumo Mobiles 1,Electronics,Mobiles,Urbano,27712.0
+2,P0002,Lumo Mobiles 2,Electronics,Mobiles,Vistara,3625.0
+3,P0003,Kriya Mobiles 3,Electronics,Mobiles,Primea,3184.0
+4,P0004,Urbano Mobiles 4,Electronics,Mobiles,Vistara,30623.0
+5,P0005,Primea Mobiles 5,Electronics,Mobiles,Kriya,54222.0
+6,P0006,Lumo Mobiles 6,Electronics,Mobiles,Primea,58227.0
+7,P0007,Bluecrest Mobiles 7,Electronics,Mobiles,Lumo,4799.0
+8,P0008,Alto Mobiles 8,Electronics,Mobiles,Vistara,4608.0
+9,P0009,Zenix Mobiles 9,Electronics,Mobiles,Vistara,6834.0
+10,P0010,Urbano Mobiles 10,Electronics,Mobiles,Nova,15388.0
+11,P0011,Kriya Mobiles 11,Electronics,Mobiles,Bluecrest,11180.0
+12,P0012,Nova Mobiles 12,Electronics,Mobiles,Primea,11085.0
+13,P0013,Zenix Mobiles 13,Electronics,Mobiles,Orbit,2221.0
+14,P0014,Vistara Mobiles 14,Electronics,Mobiles,Vistara,4543.0
+15,P0015,Vistara Mobiles 15,Electronics,Mobiles,Lumo,20497.0
+16,P0016,Urbano Mobiles 16,Electronics,Mobiles,Zenix,2468.0
+17,P0017,Vistara Mobiles 17,Electronics,Mobiles,Primea,5889.0
+18,P0018,Kriya Mobiles 18,Electronics,Mobiles,Urbano,58922.0
+19,P0019,Vistara Mobiles 19,Electronics,Mobiles,Zenix,56491.0
+20,P0020,Primea Mobiles 20,Electronics,Mobiles,Lumo,2171.0
+21,P0021,Alto Mobiles 21,Electronics,Mobiles,Primea,2119.0
+22,P0022,Kriya Mobiles 22,Electronics,Mobiles,Bluecrest,4213.0
+23,P0023,Alto Mobiles 23,Electronics,Mobiles,Zenix,13389.0
+24,P0024,Kriya Laptops 24,Electronics,Laptops,Nova,24552.0
+25,P0025,Orbit Laptops 25,Electronics,Laptops,Zenix,4135.0
+26,P0026,Kriya Laptops 26,Electronics,Laptops,Primea,17798.0
+27,P0027,Alto Laptops 27,Electronics,Laptops,Alto,10350.0
+28,P0028,Zenix Laptops 28,Electronics,Laptops,Zenix,42874.0
+29,P0029,Primea Laptops 29,Electronics,Laptops,Vistara,6465.0
+30,P0030,Alto Laptops 30,Electronics,Laptops,Urbano,27250.0
+31,P0031,Bluecrest Laptops 31,Electronics,Laptops,Kriya,4388.0
+32,P0032,Lumo Laptops 32,Electronics,Laptops,Lumo,11727.0
+33,P0033,Bluecrest Laptops 33,Electronics,Laptops,Bluecrest,41102.0
+34,P0034,Nova Laptops 34,Electronics,Laptops,Vistara,44717.0
+35,P0035,Primea Laptops 35,Electronics,Laptops,Bluecrest,12801.0
+36,P0036,Primea Laptops 36,Electronics,Laptops,Vistara,12421.0
+37,P0037,Zenix Laptops 37,Electronics,Laptops,Vistara,19612.0
+38,P0038,Primea Laptops 38,Electronics,Laptops,Urbano,2113.0
+39,P0039,Kriya Laptops 39,Electronics,Laptops,Zenix,2601.0
+40,P0040,Urbano Laptops 40,Electronics,Laptops,Orbit,20501.0
+41,P0041,Alto Laptops 41,Electronics,Laptops,Primea,3725.0
+42,P0042,Zenix Laptops 42,Electronics,Laptops,Primea,47633.0
+43,P0043,Kriya Laptops 43,Electronics,Laptops,Primea,4032.0
+44,P0044,Orbit Laptops 44,Electronics,Laptops,Zenix,4017.0
+45,P0045,Primea Laptops 45,Electronics,Laptops,Orbit,39910.0
+46,P0046,Primea Laptops 46,Electronics,Laptops,Bluecrest,8510.0
+47,P0047,Lumo Headphones 47,Electronics,Headphones,Bluecrest,4784.0
+48,P0048,Nova Headphones 48,Electronics,Headphones,Primea,56393.0
+49,P0049,Kriya Headphones 49,Electronics,Headphones,Vistara,8044.0
+50,P0050,Primea Headphones 50,Electronics,Headphones,Kriya,12832.0
+51,P0051,Kriya Headphones 51,Electronics,Headphones,Lumo,6403.0
+52,P0052,Alto Headphones 52,Electronics,Headphones,Urbano,35284.0
+53,P0053,Lumo Headphones 53,Electronics,Headphones,Kriya,24381.0
+54,P0054,Urbano Headphones 54,Electronics,Headphones,Primea,28302.0
+55,P0055,Zenix Headphones 55,Electronics,Headphones,Alto,2466.0
+56,P0056,Orbit Headphones 56,Electronics,Headphones,Bluecrest,3398.0
+57,P0057,Nova Headphones 57,Electronics,Headphones,Vistara,4001.0
+58,P0058,Vistara Headphones 58,Electronics,Headphones,Urbano,7342.0
+59,P0059,Lumo Headphones 59,Electronics,Headphones,Urbano,4160.0
+60,P0060,Nova Headphones 60,Electronics,Headphones,Kriya,18572.0
+61,P0061,Orbit Headphones 61,Electronics,Headphones,Primea,56962.0
+62,P0062,Kriya Headphones 62,Electronics,Headphones,Urbano,38862.0
+63,P0063,Orbit Headphones 63,Electronics,Headphones,Lumo,50210.0
+64,P0064,Zenix Headphones 64,Electronics,Headphones,Primea,3143.0
+65,P0065,Nova Headphones 65,Electronics,Headphones,Nova,6430.0
+66,P0066,Primea Headphones 66,Electronics,Headphones,Orbit,19566.0
+67,P0067,Nova Headphones 67,Electronics,Headphones,Lumo,2062.0
+68,P0068,Zenix Headphones 68,Electronics,Headphones,Zenix,13545.0
+69,P0069,Alto Headphones 69,Electronics,Headphones,Nova,2178.0
+70,P0070,Bluecrest Cameras 70,Electronics,Cameras,Primea,29018.0
+71,P0071,Bluecrest Cameras 71,Electronics,Cameras,Primea,13446.0
+72,P0072,Nova Cameras 72,Electronics,Cameras,Zenix,6119.0
+73,P0073,Orbit Cameras 73,Electronics,Cameras,Zenix,7253.0
+74,P0074,Bluecrest Cameras 74,Electronics,Cameras,Bluecrest,17516.0
+75,P0075,Vistara Cameras 75,Electronics,Cameras,Kriya,30564.0
+76,P0076,Kriya Cameras 76,Electronics,Cameras,Nova,13506.0
+77,P0077,Nova Cameras 77,Electronics,Cameras,Zenix,2689.0
+78,P0078,Primea Cameras 78,Electronics,Cameras,Kriya,8161.0
+79,P0079,Bluecrest Cameras 79,Electronics,Cameras,Alto,6427.0
+80,P0080,Zenix Cameras 80,Electronics,Cameras,Primea,46203.0
+81,P0081,Lumo Cameras 81,Electronics,Cameras,Primea,35690.0
+82,P0082,Primea Cameras 82,Electronics,Cameras,Kriya,2889.0
+83,P0083,Kriya Cameras 83,Electronics,Cameras,Alto,12172.0
+84,P0084,Alto Cameras 84,Electronics,Cameras,Bluecrest,4413.0
+85,P0085,Primea Cameras 85,Electronics,Cameras,Alto,11065.0
+86,P0086,Urbano Cameras 86,Electronics,Cameras,Orbit,12900.0
+87,P0087,Vistara Cameras 87,Electronics,Cameras,Bluecrest,4053.0
+88,P0088,Nova Cameras 88,Electronics,Cameras,Nova,35094.0
+89,P0089,Nova Cameras 89,Electronics,Cameras,Nova,55148.0
+90,P0090,Vistara Cameras 90,Electronics,Cameras,Alto,14934.0
+91,P0091,Kriya Cameras 91,Electronics,Cameras,Urbano,53550.0
+92,P0092,Alto Cameras 92,Electronics,Cameras,Bluecrest,8446.0
+93,P0093,Bluecrest Accessories 93,Electronics,Accessories,Lumo,51515.0
+94,P0094,Urbano Accessories 94,Electronics,Accessories,Vistara,4623.0
+95,P0095,Urbano Accessories 95,Electronics,Accessories,Urbano,29088.0
+96,P0096,Nova Accessories 96,Electronics,Accessories,Kriya,8114.0
+97,P0097,Urbano Accessories 97,Electronics,Accessories,Alto,41297.0
+98,P0098,Lumo Accessories 98,Electronics,Accessories,Vistara,2702.0
+99,P0099,Urbano Accessories 99,Electronics,Accessories,Kriya,14336.0
+100,P0100,Urbano Accessories 100,Electronics,Accessories,Bluecrest,32408.0
+101,P0101,Bluecrest Accessories 101,Electronics,Accessories,Vistara,19333.0
+102,P0102,Primea Accessories 102,Electronics,Accessories,Primea,2198.0
+103,P0103,Zenix Accessories 103,Electronics,Accessories,Orbit,4572.0
+104,P0104,Lumo Accessories 104,Electronics,Accessories,Lumo,14276.0
+105,P0105,Lumo Accessories 105,Electronics,Accessories,Kriya,8071.0
+106,P0106,Kriya Accessories 106,Electronics,Accessories,Zenix,45794.0
+107,P0107,Vistara Accessories 107,Electronics,Accessories,Primea,22602.0
+108,P0108,Primea Accessories 108,Electronics,Accessories,Urbano,12864.0
+109,P0109,Bluecrest Accessories 109,Electronics,Accessories,Urbano,5829.0
+110,P0110,Nova Accessories 110,Electronics,Accessories,Alto,35988.0
+111,P0111,Urbano Accessories 111,Electronics,Accessories,Lumo,2629.0
+112,P0112,Vistara Accessories 112,Electronics,Accessories,Bluecrest,3818.0
+113,P0113,Kriya Accessories 113,Electronics,Accessories,Orbit,3028.0
+114,P0114,Lumo Accessories 114,Electronics,Accessories,Zenix,11207.0
+115,P0115,Bluecrest Accessories 115,Electronics,Accessories,Urbano,45584.0
+116,P0116,Bluecrest Men Wear 116,Fashion,Men Wear,Orbit,1285.0
+117,P0117,Bluecrest Men Wear 117,Fashion,Men Wear,Bluecrest,616.0
+118,P0118,Bluecrest Men Wear 118,Fashion,Men Wear,Alto,1214.0
+119,P0119,Vistara Men Wear 119,Fashion,Men Wear,Lumo,5580.0
+120,P0120,Alto Men Wear 120,Fashion,Men Wear,Urbano,1843.0
+121,P0121,Vistara Men Wear 121,Fashion,Men Wear,Bluecrest,2273.0
+122,P0122,Orbit Men Wear 122,Fashion,Men Wear,Urbano,411.0
+123,P0123,Vistara Men Wear 123,Fashion,Men Wear,Lumo,605.0
+124,P0124,Vistara Men Wear 124,Fashion,Men Wear,Primea,2227.0
+125,P0125,Bluecrest Men Wear 125,Fashion,Men Wear,Orbit,1116.0
+126,P0126,Urbano Men Wear 126,Fashion,Men Wear,Bluecrest,677.0
+127,P0127,Bluecrest Men Wear 127,Fashion,Men Wear,Alto,564.0
+128,P0128,Kriya Men Wear 128,Fashion,Men Wear,Nova,497.0
+129,P0129,Alto Men Wear 129,Fashion,Men Wear,Vistara,2444.0
+130,P0130,Vistara Men Wear 130,Fashion,Men Wear,Urbano,2387.0
+131,P0131,Urbano Men Wear 131,Fashion,Men Wear,Zenix,862.0
+132,P0132,Vistara Men Wear 132,Fashion,Men Wear,Alto,5798.0
+133,P0133,Kriya Men Wear 133,Fashion,Men Wear,Bluecrest,798.0
+134,P0134,Orbit Men Wear 134,Fashion,Men Wear,Zenix,2840.0
+135,P0135,Kriya Men Wear 135,Fashion,Men Wear,Vistara,580.0
+136,P0136,Vistara Men Wear 136,Fashion,Men Wear,Zenix,475.0
+137,P0137,Zenix Men Wear 137,Fashion,Men Wear,Kriya,3865.0
+138,P0138,Alto Men Wear 138,Fashion,Men Wear,Kriya,1136.0
+139,P0139,Zenix Women Wear 139,Fashion,Women Wear,Lumo,3416.0
+140,P0140,Bluecrest Women Wear 140,Fashion,Women Wear,Orbit,877.0
+141,P0141,Zenix Women Wear 141,Fashion,Women Wear,Vistara,4501.0
+142,P0142,Lumo Women Wear 142,Fashion,Women Wear,Kriya,2658.0
+143,P0143,Kriya Women Wear 143,Fashion,Women Wear,Lumo,659.0
+144,P0144,Lumo Women Wear 144,Fashion,Women Wear,Urbano,3596.0
+145,P0145,Bluecrest Women Wear 145,Fashion,Women Wear,Zenix,1177.0
+146,P0146,Vistara Women Wear 146,Fashion,Women Wear,Zenix,4658.0
+147,P0147,Nova Women Wear 147,Fashion,Women Wear,Vistara,2786.0
+148,P0148,Urbano Women Wear 148,Fashion,Women Wear,Alto,746.0
+149,P0149,Primea Women Wear 149,Fashion,Women Wear,Orbit,2809.0
+150,P0150,Bluecrest Women Wear 150,Fashion,Women Wear,Lumo,4797.0
+151,P0151,Vistara Women Wear 151,Fashion,Women Wear,Primea,4951.0
+152,P0152,Zenix Women Wear 152,Fashion,Women Wear,Orbit,641.0
+153,P0153,Kriya Women Wear 153,Fashion,Women Wear,Orbit,3716.0
+154,P0154,Primea Women Wear 154,Fashion,Women Wear,Zenix,2715.0
+155,P0155,Zenix Women Wear 155,Fashion,Women Wear,Zenix,1392.0
+156,P0156,Orbit Women Wear 156,Fashion,Women Wear,Lumo,1731.0
+157,P0157,Urbano Women Wear 157,Fashion,Women Wear,Urbano,1354.0
+158,P0158,Alto Women Wear 158,Fashion,Women Wear,Alto,3971.0
+159,P0159,Kriya Women Wear 159,Fashion,Women Wear,Alto,2316.0
+160,P0160,Alto Women Wear 160,Fashion,Women Wear,Vistara,3004.0
+161,P0161,Nova Women Wear 161,Fashion,Women Wear,Primea,4858.0
+162,P0162,Zenix Footwear 162,Fashion,Footwear,Vistara,930.0
+163,P0163,Alto Footwear 163,Fashion,Footwear,Lumo,3930.0
+164,P0164,Kriya Footwear 164,Fashion,Footwear,Zenix,502.0
+165,P0165,Vistara Footwear 165,Fashion,Footwear,Kriya,1386.0
+166,P0166,Nova Footwear 166,Fashion,Footwear,Urbano,3011.0
+167,P0167,Primea Footwear 167,Fashion,Footwear,Kriya,1246.0
+168,P0168,Zenix Footwear 168,Fashion,Footwear,Lumo,1625.0
+169,P0169,Lumo Footwear 169,Fashion,Footwear,Bluecrest,1114.0
+170,P0170,Urbano Footwear 170,Fashion,Footwear,Nova,599.0
+171,P0171,Alto Footwear 171,Fashion,Footwear,Orbit,2730.0
+172,P0172,Nova Footwear 172,Fashion,Footwear,Vistara,3142.0
+173,P0173,Primea Footwear 173,Fashion,Footwear,Bluecrest,5579.0
+174,P0174,Lumo Footwear 174,Fashion,Footwear,Vistara,4094.0
+175,P0175,Nova Footwear 175,Fashion,Footwear,Bluecrest,3848.0
+176,P0176,Bluecrest Footwear 176,Fashion,Footwear,Alto,1477.0
+177,P0177,Nova Footwear 177,Fashion,Footwear,Alto,1173.0
+178,P0178,Orbit Footwear 178,Fashion,Footwear,Lumo,1157.0
+179,P0179,Nova Footwear 179,Fashion,Footwear,Alto,2105.0
+180,P0180,Urbano Footwear 180,Fashion,Footwear,Bluecrest,1412.0
+181,P0181,Urbano Footwear 181,Fashion,Footwear,Nova,827.0
+182,P0182,Urbano Footwear 182,Fashion,Footwear,Kriya,1416.0
+183,P0183,Vistara Footwear 183,Fashion,Footwear,Bluecrest,589.0
+184,P0184,Bluecrest Footwear 184,Fashion,Footwear,Zenix,4674.0
+185,P0185,Lumo Watches 185,Fashion,Watches,Lumo,5016.0
+186,P0186,Kriya Watches 186,Fashion,Watches,Urbano,3768.0
+187,P0187,Alto Watches 187,Fashion,Watches,Alto,5642.0
+188,P0188,Orbit Watches 188,Fashion,Watches,Orbit,758.0
+189,P0189,Orbit Watches 189,Fashion,Watches,Alto,2369.0
+190,P0190,Vistara Watches 190,Fashion,Watches,Bluecrest,2396.0
+191,P0191,Kriya Watches 191,Fashion,Watches,Lumo,2184.0
+192,P0192,Alto Watches 192,Fashion,Watches,Zenix,1337.0
+193,P0193,Nova Watches 193,Fashion,Watches,Primea,1103.0
+194,P0194,Alto Watches 194,Fashion,Watches,Urbano,3427.0
+195,P0195,Vistara Watches 195,Fashion,Watches,Alto,2722.0
+196,P0196,Kriya Watches 196,Fashion,Watches,Zenix,5932.0
+197,P0197,Urbano Watches 197,Fashion,Watches,Nova,432.0
+198,P0198,Kriya Watches 198,Fashion,Watches,Lumo,494.0
+199,P0199,Bluecrest Watches 199,Fashion,Watches,Kriya,3461.0
+200,P0200,Primea Watches 200,Fashion,Watches,Nova,2890.0
+201,P0201,Orbit Watches 201,Fashion,Watches,Alto,918.0
+202,P0202,Alto Watches 202,Fashion,Watches,Primea,1438.0
+203,P0203,Kriya Watches 203,Fashion,Watches,Nova,3372.0
+204,P0204,Zenix Watches 204,Fashion,Watches,Bluecrest,619.0
+205,P0205,Lumo Watches 205,Fashion,Watches,Lumo,479.0
+206,P0206,Lumo Watches 206,Fashion,Watches,Kriya,1451.0
+207,P0207,Nova Watches 207,Fashion,Watches,Nova,680.0
+208,P0208,Kriya Bags 208,Fashion,Bags,Kriya,747.0
+209,P0209,Alto Bags 209,Fashion,Bags,Alto,537.0
+210,P0210,Alto Bags 210,Fashion,Bags,Zenix,1351.0
+211,P0211,Alto Bags 211,Fashion,Bags,Alto,2698.0
+212,P0212,Nova Bags 212,Fashion,Bags,Zenix,3899.0
+213,P0213,Alto Bags 213,Fashion,Bags,Orbit,1112.0
+214,P0214,Vistara Bags 214,Fashion,Bags,Orbit,990.0
+215,P0215,Bluecrest Bags 215,Fashion,Bags,Vistara,789.0
+216,P0216,Alto Bags 216,Fashion,Bags,Bluecrest,5261.0
+217,P0217,Bluecrest Bags 217,Fashion,Bags,Lumo,1774.0
+218,P0218,Nova Bags 218,Fashion,Bags,Nova,3432.0
+219,P0219,Urbano Bags 219,Fashion,Bags,Orbit,4046.0
+220,P0220,Lumo Bags 220,Fashion,Bags,Urbano,3485.0
+221,P0221,Bluecrest Bags 221,Fashion,Bags,Nova,958.0
+222,P0222,Kriya Bags 222,Fashion,Bags,Zenix,450.0
+223,P0223,Vistara Bags 223,Fashion,Bags,Alto,1212.0
+224,P0224,Vistara Bags 224,Fashion,Bags,Orbit,583.0
+225,P0225,Orbit Bags 225,Fashion,Bags,Primea,2648.0
+226,P0226,Urbano Bags 226,Fashion,Bags,Bluecrest,618.0
+227,P0227,Primea Bags 227,Fashion,Bags,Alto,620.0
+228,P0228,Lumo Bags 228,Fashion,Bags,Bluecrest,3530.0
+229,P0229,Zenix Bags 229,Fashion,Bags,Bluecrest,1330.0
+230,P0230,Alto Bags 230,Fashion,Bags,Bluecrest,762.0
+231,P0231,Lumo Furniture 231,Home & Kitchen,Furniture,Zenix,9275.0
+232,P0232,Orbit Furniture 232,Home & Kitchen,Furniture,Urbano,665.0
+233,P0233,Lumo Furniture 233,Home & Kitchen,Furniture,Zenix,24921.0
+234,P0234,Nova Furniture 234,Home & Kitchen,Furniture,Vistara,8527.0
+235,P0235,Orbit Furniture 235,Home & Kitchen,Furniture,Orbit,1280.0
+236,P0236,Nova Furniture 236,Home & Kitchen,Furniture,Nova,586.0
+237,P0237,Alto Furniture 237,Home & Kitchen,Furniture,Orbit,3851.0
+238,P0238,Kriya Furniture 238,Home & Kitchen,Furniture,Orbit,19310.0
+239,P0239,Bluecrest Furniture 239,Home & Kitchen,Furniture,Orbit,7048.0
+240,P0240,Vistara Furniture 240,Home & Kitchen,Furniture,Primea,3182.0
+241,P0241,Urbano Furniture 241,Home & Kitchen,Furniture,Primea,8109.0
+242,P0242,Lumo Furniture 242,Home & Kitchen,Furniture,Primea,3268.0
+243,P0243,Orbit Furniture 243,Home & Kitchen,Furniture,Alto,1059.0
+244,P0244,Vistara Furniture 244,Home & Kitchen,Furniture,Orbit,2189.0
+245,P0245,Kriya Furniture 245,Home & Kitchen,Furniture,Vistara,772.0
+246,P0246,Kriya Furniture 246,Home & Kitchen,Furniture,Zenix,4148.0
+247,P0247,Orbit Furniture 247,Home & Kitchen,Furniture,Alto,3728.0
+248,P0248,Primea Furniture 248,Home & Kitchen,Furniture,Alto,768.0
+249,P0249,Lumo Furniture 249,Home & Kitchen,Furniture,Zenix,1142.0
+250,P0250,Lumo Furniture 250,Home & Kitchen,Furniture,Zenix,5083.0
+251,P0251,Urbano Furniture 251,Home & Kitchen,Furniture,Bluecrest,1328.0
+252,P0252,Alto Furniture 252,Home & Kitchen,Furniture,Urbano,7908.0
+253,P0253,Lumo Furniture 253,Home & Kitchen,Furniture,Vistara,15651.0
+254,P0254,Orbit Appliances 254,Home & Kitchen,Appliances,Lumo,7270.0
+255,P0255,Orbit Appliances 255,Home & Kitchen,Appliances,Vistara,547.0
+256,P0256,Primea Appliances 256,Home & Kitchen,Appliances,Lumo,899.0
+257,P0257,Nova Appliances 257,Home & Kitchen,Appliances,Lumo,3960.0
+258,P0258,Orbit Appliances 258,Home & Kitchen,Appliances,Zenix,877.0
+259,P0259,Vistara Appliances 259,Home & Kitchen,Appliances,Urbano,12673.0
+260,P0260,Urbano Appliances 260,Home & Kitchen,Appliances,Primea,20091.0
+261,P0261,Kriya Appliances 261,Home & Kitchen,Appliances,Nova,4958.0
+262,P0262,Nova Appliances 262,Home & Kitchen,Appliances,Bluecrest,1851.0
+263,P0263,Zenix Appliances 263,Home & Kitchen,Appliances,Vistara,1955.0
+264,P0264,Orbit Appliances 264,Home & Kitchen,Appliances,Bluecrest,9706.0
+265,P0265,Urbano Appliances 265,Home & Kitchen,Appliances,Lumo,22633.0
+266,P0266,Vistara Appliances 266,Home & Kitchen,Appliances,Kriya,5806.0
+267,P0267,Bluecrest Appliances 267,Home & Kitchen,Appliances,Vistara,1084.0
+268,P0268,Orbit Appliances 268,Home & Kitchen,Appliances,Vistara,2067.0
+269,P0269,Zenix Appliances 269,Home & Kitchen,Appliances,Alto,506.0
+270,P0270,Vistara Appliances 270,Home & Kitchen,Appliances,Urbano,1140.0
+271,P0271,Urbano Appliances 271,Home & Kitchen,Appliances,Lumo,17345.0
+272,P0272,Orbit Appliances 272,Home & Kitchen,Appliances,Zenix,1406.0
+273,P0273,Vistara Appliances 273,Home & Kitchen,Appliances,Vistara,3312.0
+274,P0274,Alto Appliances 274,Home & Kitchen,Appliances,Primea,24245.0
+275,P0275,Lumo Appliances 275,Home & Kitchen,Appliances,Lumo,9492.0
+276,P0276,Urbano Appliances 276,Home & Kitchen,Appliances,Primea,2651.0
+277,P0277,Orbit Cookware 277,Home & Kitchen,Cookware,Vistara,917.0
+278,P0278,Urbano Cookware 278,Home & Kitchen,Cookware,Primea,874.0
+279,P0279,Bluecrest Cookware 279,Home & Kitchen,Cookware,Zenix,723.0
+280,P0280,Bluecrest Cookware 280,Home & Kitchen,Cookware,Primea,12979.0
+281,P0281,Urbano Cookware 281,Home & Kitchen,Cookware,Alto,3189.0
+282,P0282,Vistara Cookware 282,Home & Kitchen,Cookware,Nova,4679.0
+283,P0283,Alto Cookware 283,Home & Kitchen,Cookware,Lumo,10850.0
+284,P0284,Kriya Cookware 284,Home & Kitchen,Cookware,Nova,1033.0
+285,P0285,Primea Cookware 285,Home & Kitchen,Cookware,Lumo,753.0
+286,P0286,Vistara Cookware 286,Home & Kitchen,Cookware,Vistara,13096.0
+287,P0287,Alto Cookware 287,Home & Kitchen,Cookware,Kriya,5004.0
+288,P0288,Alto Cookware 288,Home & Kitchen,Cookware,Bluecrest,1388.0
+289,P0289,Orbit Cookware 289,Home & Kitchen,Cookware,Vistara,2264.0
+290,P0290,Orbit Cookware 290,Home & Kitchen,Cookware,Primea,919.0
+291,P0291,Bluecrest Cookware 291,Home & Kitchen,Cookware,Bluecrest,1213.0
+292,P0292,Bluecrest Cookware 292,Home & Kitchen,Cookware,Orbit,2990.0
+293,P0293,Vistara Cookware 293,Home & Kitchen,Cookware,Lumo,703.0
+294,P0294,Urbano Cookware 294,Home & Kitchen,Cookware,Lumo,1184.0
+295,P0295,Primea Cookware 295,Home & Kitchen,Cookware,Orbit,10411.0
+296,P0296,Primea Cookware 296,Home & Kitchen,Cookware,Orbit,977.0
+297,P0297,Vistara Cookware 297,Home & Kitchen,Cookware,Urbano,1213.0
+298,P0298,Zenix Cookware 298,Home & Kitchen,Cookware,Orbit,9091.0
+299,P0299,Alto Cookware 299,Home & Kitchen,Cookware,Zenix,1728.0
+300,P0300,Urbano Decor 300,Home & Kitchen,Decor,Bluecrest,19393.0
+301,P0301,Bluecrest Decor 301,Home & Kitchen,Decor,Zenix,1518.0
+302,P0302,Bluecrest Decor 302,Home & Kitchen,Decor,Orbit,12107.0
+303,P0303,Alto Decor 303,Home & Kitchen,Decor,Primea,1411.0
+304,P0304,Vistara Decor 304,Home & Kitchen,Decor,Vistara,608.0
+305,P0305,Urbano Decor 305,Home & Kitchen,Decor,Vistara,2743.0
+306,P0306,Bluecrest Decor 306,Home & Kitchen,Decor,Zenix,4538.0
+307,P0307,Urbano Decor 307,Home & Kitchen,Decor,Zenix,1967.0
+308,P0308,Lumo Decor 308,Home & Kitchen,Decor,Zenix,611.0
+309,P0309,Urbano Decor 309,Home & Kitchen,Decor,Zenix,14946.0
+310,P0310,Primea Decor 310,Home & Kitchen,Decor,Urbano,4709.0
+311,P0311,Vistara Decor 311,Home & Kitchen,Decor,Zenix,23877.0
+312,P0312,Kriya Decor 312,Home & Kitchen,Decor,Alto,13920.0
+313,P0313,Zenix Decor 313,Home & Kitchen,Decor,Bluecrest,7913.0
+314,P0314,Urbano Decor 314,Home & Kitchen,Decor,Alto,3461.0
+315,P0315,Vistara Decor 315,Home & Kitchen,Decor,Vistara,1380.0
+316,P0316,Bluecrest Decor 316,Home & Kitchen,Decor,Nova,691.0
+317,P0317,Primea Decor 317,Home & Kitchen,Decor,Primea,20056.0
+318,P0318,Bluecrest Decor 318,Home & Kitchen,Decor,Bluecrest,12860.0
+319,P0319,Primea Decor 319,Home & Kitchen,Decor,Urbano,4172.0
+320,P0320,Orbit Decor 320,Home & Kitchen,Decor,Zenix,1984.0
+321,P0321,Orbit Decor 321,Home & Kitchen,Decor,Kriya,1045.0
+322,P0322,Alto Decor 322,Home & Kitchen,Decor,Bluecrest,3671.0
+323,P0323,Vistara Skincare 323,Beauty,Skincare,Orbit,218.0
+324,P0324,Urbano Skincare 324,Beauty,Skincare,Vistara,417.0
+325,P0325,Bluecrest Skincare 325,Beauty,Skincare,Vistara,2330.0
+326,P0326,Orbit Skincare 326,Beauty,Skincare,Urbano,2363.0
+327,P0327,Primea Skincare 327,Beauty,Skincare,Vistara,1090.0
+328,P0328,Alto Skincare 328,Beauty,Skincare,Alto,833.0
+329,P0329,Bluecrest Skincare 329,Beauty,Skincare,Kriya,2993.0
+330,P0330,Primea Skincare 330,Beauty,Skincare,Zenix,1715.0
+331,P0331,Lumo Skincare 331,Beauty,Skincare,Vistara,2788.0
+332,P0332,Bluecrest Skincare 332,Beauty,Skincare,Zenix,210.0
+333,P0333,Lumo Skincare 333,Beauty,Skincare,Urbano,585.0
+334,P0334,Alto Skincare 334,Beauty,Skincare,Lumo,1131.0
+335,P0335,Vistara Skincare 335,Beauty,Skincare,Alto,1909.0
+336,P0336,Bluecrest Skincare 336,Beauty,Skincare,Orbit,782.0
+337,P0337,Primea Skincare 337,Beauty,Skincare,Primea,1247.0
+338,P0338,Bluecrest Skincare 338,Beauty,Skincare,Urbano,303.0
+339,P0339,Vistara Skincare 339,Beauty,Skincare,Bluecrest,244.0
+340,P0340,Zenix Skincare 340,Beauty,Skincare,Bluecrest,277.0
+341,P0341,Kriya Skincare 341,Beauty,Skincare,Bluecrest,2479.0
+342,P0342,Orbit Skincare 342,Beauty,Skincare,Alto,475.0
+343,P0343,Orbit Skincare 343,Beauty,Skincare,Primea,1962.0
+344,P0344,Lumo Skincare 344,Beauty,Skincare,Zenix,300.0
+345,P0345,Zenix Skincare 345,Beauty,Skincare,Zenix,1258.0
+346,P0346,Kriya Makeup 346,Beauty,Makeup,Orbit,1291.0
+347,P0347,Primea Makeup 347,Beauty,Makeup,Urbano,352.0
+348,P0348,Primea Makeup 348,Beauty,Makeup,Vistara,415.0
+349,P0349,Bluecrest Makeup 349,Beauty,Makeup,Urbano,275.0
+350,P0350,Nova Makeup 350,Beauty,Makeup,Kriya,523.0
+351,P0351,Orbit Makeup 351,Beauty,Makeup,Alto,475.0
+352,P0352,Orbit Makeup 352,Beauty,Makeup,Lumo,204.0
+353,P0353,Nova Makeup 353,Beauty,Makeup,Zenix,428.0
+354,P0354,Zenix Makeup 354,Beauty,Makeup,Lumo,298.0
+355,P0355,Orbit Makeup 355,Beauty,Makeup,Bluecrest,230.0
+356,P0356,Kriya Makeup 356,Beauty,Makeup,Urbano,839.0
+357,P0357,Nova Makeup 357,Beauty,Makeup,Primea,2588.0
+358,P0358,Alto Makeup 358,Beauty,Makeup,Alto,481.0
+359,P0359,Urbano Makeup 359,Beauty,Makeup,Vistara,504.0
+360,P0360,Nova Makeup 360,Beauty,Makeup,Alto,274.0
+361,P0361,Nova Makeup 361,Beauty,Makeup,Alto,478.0
+362,P0362,Kriya Makeup 362,Beauty,Makeup,Bluecrest,1665.0
+363,P0363,Bluecrest Makeup 363,Beauty,Makeup,Primea,304.0
+364,P0364,Nova Makeup 364,Beauty,Makeup,Zenix,412.0
+365,P0365,Bluecrest Makeup 365,Beauty,Makeup,Bluecrest,663.0
+366,P0366,Primea Makeup 366,Beauty,Makeup,Nova,1557.0
+367,P0367,Alto Makeup 367,Beauty,Makeup,Alto,463.0
+368,P0368,Alto Makeup 368,Beauty,Makeup,Primea,767.0
+369,P0369,Nova Haircare 369,Beauty,Haircare,Orbit,531.0
+370,P0370,Bluecrest Haircare 370,Beauty,Haircare,Nova,2943.0
+371,P0371,Orbit Haircare 371,Beauty,Haircare,Alto,1592.0
+372,P0372,Lumo Haircare 372,Beauty,Haircare,Primea,1251.0
+373,P0373,Zenix Haircare 373,Beauty,Haircare,Primea,525.0
+374,P0374,Kriya Haircare 374,Beauty,Haircare,Orbit,351.0
+375,P0375,Alto Haircare 375,Beauty,Haircare,Orbit,2203.0
+376,P0376,Vistara Haircare 376,Beauty,Haircare,Nova,290.0
+377,P0377,Orbit Haircare 377,Beauty,Haircare,Primea,821.0
+378,P0378,Alto Haircare 378,Beauty,Haircare,Alto,2488.0
+379,P0379,Primea Haircare 379,Beauty,Haircare,Bluecrest,2077.0
+380,P0380,Orbit Haircare 380,Beauty,Haircare,Orbit,1520.0
+381,P0381,Kriya Haircare 381,Beauty,Haircare,Orbit,579.0
+382,P0382,Orbit Haircare 382,Beauty,Haircare,Nova,961.0
+383,P0383,Urbano Haircare 383,Beauty,Haircare,Lumo,345.0
+384,P0384,Nova Haircare 384,Beauty,Haircare,Urbano,440.0
+385,P0385,Lumo Haircare 385,Beauty,Haircare,Kriya,736.0
+386,P0386,Bluecrest Haircare 386,Beauty,Haircare,Zenix,288.0
+387,P0387,Alto Haircare 387,Beauty,Haircare,Lumo,224.0
+388,P0388,Kriya Haircare 388,Beauty,Haircare,Zenix,1583.0
+389,P0389,Bluecrest Haircare 389,Beauty,Haircare,Bluecrest,2277.0
+390,P0390,Alto Haircare 390,Beauty,Haircare,Primea,1060.0
+391,P0391,Kriya Haircare 391,Beauty,Haircare,Nova,275.0
+392,P0392,Nova Fragrance 392,Beauty,Fragrance,Alto,2866.0
+393,P0393,Bluecrest Fragrance 393,Beauty,Fragrance,Vistara,829.0
+394,P0394,Vistara Fragrance 394,Beauty,Fragrance,Primea,629.0
+395,P0395,Orbit Fragrance 395,Beauty,Fragrance,Orbit,219.0
+396,P0396,Orbit Fragrance 396,Beauty,Fragrance,Kriya,1783.0
+397,P0397,Lumo Fragrance 397,Beauty,Fragrance,Urbano,2440.0
+398,P0398,Primea Fragrance 398,Beauty,Fragrance,Orbit,212.0
+399,P0399,Alto Fragrance 399,Beauty,Fragrance,Vistara,1813.0
+400,P0400,Kriya Fragrance 400,Beauty,Fragrance,Urbano,1778.0
+401,P0401,Orbit Fragrance 401,Beauty,Fragrance,Bluecrest,255.0
+402,P0402,Kriya Fragrance 402,Beauty,Fragrance,Urbano,1085.0
+403,P0403,Vistara Fragrance 403,Beauty,Fragrance,Lumo,567.0
+404,P0404,Primea Fragrance 404,Beauty,Fragrance,Lumo,803.0
+405,P0405,Orbit Fragrance 405,Beauty,Fragrance,Urbano,583.0
+406,P0406,Zenix Fragrance 406,Beauty,Fragrance,Kriya,207.0
+407,P0407,Urbano Fragrance 407,Beauty,Fragrance,Alto,377.0
+408,P0408,Zenix Fragrance 408,Beauty,Fragrance,Primea,650.0
+409,P0409,Kriya Fragrance 409,Beauty,Fragrance,Vistara,2050.0
+410,P0410,Kriya Fragrance 410,Beauty,Fragrance,Zenix,1325.0
+411,P0411,Alto Fragrance 411,Beauty,Fragrance,Alto,2339.0
+412,P0412,Kriya Fragrance 412,Beauty,Fragrance,Bluecrest,863.0
+413,P0413,Lumo Fragrance 413,Beauty,Fragrance,Alto,1453.0
+414,P0414,Vistara Fragrance 414,Beauty,Fragrance,Kriya,2670.0
+415,P0415,Zenix Fitness 415,Sports,Fitness,Urbano,940.0
+416,P0416,Kriya Fitness 416,Sports,Fitness,Lumo,6814.0
+417,P0417,Alto Fitness 417,Sports,Fitness,Lumo,612.0
+418,P0418,Kriya Fitness 418,Sports,Fitness,Nova,4264.0
+419,P0419,Alto Fitness 419,Sports,Fitness,Zenix,1354.0
+420,P0420,Zenix Fitness 420,Sports,Fitness,Vistara,571.0
+421,P0421,Zenix Fitness 421,Sports,Fitness,Kriya,594.0
+422,P0422,Orbit Fitness 422,Sports,Fitness,Bluecrest,9875.0
+423,P0423,Lumo Fitness 423,Sports,Fitness,Bluecrest,11034.0
+424,P0424,Bluecrest Fitness 424,Sports,Fitness,Primea,3540.0
+425,P0425,Lumo Fitness 425,Sports,Fitness,Urbano,6021.0
+426,P0426,Orbit Fitness 426,Sports,Fitness,Orbit,5242.0
+427,P0427,Zenix Fitness 427,Sports,Fitness,Alto,9362.0
+428,P0428,Alto Fitness 428,Sports,Fitness,Zenix,9876.0
+429,P0429,Zenix Fitness 429,Sports,Fitness,Kriya,1971.0
+430,P0430,Alto Fitness 430,Sports,Fitness,Orbit,6675.0
+431,P0431,Zenix Fitness 431,Sports,Fitness,Vistara,3367.0
+432,P0432,Lumo Fitness 432,Sports,Fitness,Alto,3552.0
+433,P0433,Primea Fitness 433,Sports,Fitness,Urbano,821.0
+434,P0434,Vistara Fitness 434,Sports,Fitness,Alto,2410.0
+435,P0435,Zenix Fitness 435,Sports,Fitness,Urbano,4819.0
+436,P0436,Alto Fitness 436,Sports,Fitness,Bluecrest,5617.0
+437,P0437,Zenix Fitness 437,Sports,Fitness,Lumo,5343.0
+438,P0438,Orbit Outdoor 438,Sports,Outdoor,Zenix,3877.0
+439,P0439,Zenix Outdoor 439,Sports,Outdoor,Urbano,3722.0
+440,P0440,Vistara Outdoor 440,Sports,Outdoor,Zenix,991.0
+441,P0441,Bluecrest Outdoor 441,Sports,Outdoor,Kriya,6107.0
+442,P0442,Kriya Outdoor 442,Sports,Outdoor,Kriya,608.0
+443,P0443,Lumo Outdoor 443,Sports,Outdoor,Urbano,1206.0
+444,P0444,Nova Outdoor 444,Sports,Outdoor,Alto,4739.0
+445,P0445,Kriya Outdoor 445,Sports,Outdoor,Orbit,10306.0
+446,P0446,Orbit Outdoor 446,Sports,Outdoor,Lumo,5845.0
+447,P0447,Urbano Outdoor 447,Sports,Outdoor,Bluecrest,9027.0
+448,P0448,Bluecrest Outdoor 448,Sports,Outdoor,Primea,1021.0
+449,P0449,Kriya Outdoor 449,Sports,Outdoor,Urbano,2328.0
+450,P0450,Bluecrest Outdoor 450,Sports,Outdoor,Orbit,10251.0
+451,P0451,Alto Outdoor 451,Sports,Outdoor,Bluecrest,964.0
+452,P0452,Bluecrest Outdoor 452,Sports,Outdoor,Lumo,1515.0
+453,P0453,Orbit Outdoor 453,Sports,Outdoor,Kriya,1367.0
+454,P0454,Kriya Outdoor 454,Sports,Outdoor,Nova,664.0
+455,P0455,Bluecrest Outdoor 455,Sports,Outdoor,Nova,872.0
+456,P0456,Nova Outdoor 456,Sports,Outdoor,Bluecrest,3831.0
+457,P0457,Bluecrest Outdoor 457,Sports,Outdoor,Bluecrest,1686.0
+458,P0458,Urbano Outdoor 458,Sports,Outdoor,Primea,546.0
+459,P0459,Vistara Outdoor 459,Sports,Outdoor,Vistara,652.0
+460,P0460,Urbano Outdoor 460,Sports,Outdoor,Primea,11011.0
+461,P0461,Alto Team Sports 461,Sports,Team Sports,Zenix,10934.0
+462,P0462,Alto Team Sports 462,Sports,Team Sports,Nova,647.0
+463,P0463,Urbano Team Sports 463,Sports,Team Sports,Kriya,3635.0
+464,P0464,Alto Team Sports 464,Sports,Team Sports,Kriya,7734.0
+465,P0465,Urbano Team Sports 465,Sports,Team Sports,Nova,767.0
+466,P0466,Nova Team Sports 466,Sports,Team Sports,Kriya,2788.0
+467,P0467,Lumo Team Sports 467,Sports,Team Sports,Vistara,1740.0
+468,P0468,Primea Team Sports 468,Sports,Team Sports,Bluecrest,8782.0
+469,P0469,Primea Team Sports 469,Sports,Team Sports,Orbit,3516.0
+470,P0470,Nova Team Sports 470,Sports,Team Sports,Lumo,9533.0
+471,P0471,Primea Team Sports 471,Sports,Team Sports,Orbit,2001.0
+472,P0472,Orbit Team Sports 472,Sports,Team Sports,Bluecrest,5639.0
+473,P0473,Zenix Team Sports 473,Sports,Team Sports,Nova,2547.0
+474,P0474,Orbit Team Sports 474,Sports,Team Sports,Bluecrest,4129.0
+475,P0475,Bluecrest Team Sports 475,Sports,Team Sports,Urbano,2490.0
+476,P0476,Orbit Team Sports 476,Sports,Team Sports,Vistara,1126.0
+477,P0477,Bluecrest Team Sports 477,Sports,Team Sports,Vistara,556.0
+478,P0478,Primea Team Sports 478,Sports,Team Sports,Bluecrest,1053.0
+479,P0479,Primea Team Sports 479,Sports,Team Sports,Urbano,5358.0
+480,P0480,Kriya Team Sports 480,Sports,Team Sports,Kriya,1347.0
+481,P0481,Nova Team Sports 481,Sports,Team Sports,Alto,527.0
+482,P0482,Alto Team Sports 482,Sports,Team Sports,Kriya,1564.0
+483,P0483,Vistara Team Sports 483,Sports,Team Sports,Primea,7193.0
+484,P0484,Lumo Cycling 484,Sports,Cycling,Zenix,2771.0
+485,P0485,Alto Cycling 485,Sports,Cycling,Zenix,2105.0
+486,P0486,Orbit Cycling 486,Sports,Cycling,Urbano,4332.0
+487,P0487,Orbit Cycling 487,Sports,Cycling,Primea,3001.0
+488,P0488,Bluecrest Cycling 488,Sports,Cycling,Lumo,5101.0
+489,P0489,Vistara Cycling 489,Sports,Cycling,Lumo,501.0
+490,P0490,Zenix Cycling 490,Sports,Cycling,Bluecrest,4214.0
+491,P0491,Lumo Cycling 491,Sports,Cycling,Urbano,8680.0
+492,P0492,Kriya Cycling 492,Sports,Cycling,Urbano,1137.0
+493,P0493,Bluecrest Cycling 493,Sports,Cycling,Urbano,1347.0
+494,P0494,Primea Cycling 494,Sports,Cycling,Zenix,2627.0
+495,P0495,Alto Cycling 495,Sports,Cycling,Zenix,793.0
+496,P0496,Nova Cycling 496,Sports,Cycling,Zenix,882.0
+497,P0497,Vistara Cycling 497,Sports,Cycling,Bluecrest,1316.0
+498,P0498,Lumo Cycling 498,Sports,Cycling,Primea,4311.0
+499,P0499,Zenix Cycling 499,Sports,Cycling,Zenix,500.0
+500,P0500,Kriya Cycling 500,Sports,Cycling,Bluecrest,11092.0
+501,P0501,Vistara Cycling 501,Sports,Cycling,Nova,11444.0
+502,P0502,Orbit Cycling 502,Sports,Cycling,Urbano,8089.0
+503,P0503,Vistara Cycling 503,Sports,Cycling,Bluecrest,2854.0
+504,P0504,Alto Cycling 504,Sports,Cycling,Nova,1794.0
+505,P0505,Urbano Cycling 505,Sports,Cycling,Urbano,4404.0
+506,P0506,Urbano Cycling 506,Sports,Cycling,Lumo,1354.0
+507,P0507,Nova Books 507,Books & Stationery,Books,Zenix,204.0
+508,P0508,Vistara Books 508,Books & Stationery,Books,Alto,770.0
+509,P0509,Kriya Books 509,Books & Stationery,Books,Lumo,113.0
+510,P0510,Bluecrest Books 510,Books & Stationery,Books,Primea,477.0
+511,P0511,Primea Books 511,Books & Stationery,Books,Zenix,192.0
+512,P0512,Urbano Books 512,Books & Stationery,Books,Vistara,703.0
+513,P0513,Kriya Books 513,Books & Stationery,Books,Nova,429.0
+514,P0514,Bluecrest Books 514,Books & Stationery,Books,Bluecrest,1041.0
+515,P0515,Nova Books 515,Books & Stationery,Books,Zenix,204.0
+516,P0516,Primea Books 516,Books & Stationery,Books,Bluecrest,638.0
+517,P0517,Vistara Books 517,Books & Stationery,Books,Zenix,143.0
+518,P0518,Primea Books 518,Books & Stationery,Books,Zenix,188.0
+519,P0519,Primea Books 519,Books & Stationery,Books,Bluecrest,278.0
+520,P0520,Kriya Books 520,Books & Stationery,Books,Zenix,676.0
+521,P0521,Nova Books 521,Books & Stationery,Books,Vistara,277.0
+522,P0522,Urbano Books 522,Books & Stationery,Books,Alto,253.0
+523,P0523,Orbit Books 523,Books & Stationery,Books,Primea,103.0
+524,P0524,Urbano Books 524,Books & Stationery,Books,Primea,190.0
+525,P0525,Nova Books 525,Books & Stationery,Books,Vistara,151.0
+526,P0526,Alto Books 526,Books & Stationery,Books,Kriya,165.0
+527,P0527,Kriya Books 527,Books & Stationery,Books,Kriya,1293.0
+528,P0528,Alto Books 528,Books & Stationery,Books,Urbano,155.0
+529,P0529,Alto Books 529,Books & Stationery,Books,Zenix,443.0
+530,P0530,Nova Office Supplies 530,Books & Stationery,Office Supplies,Urbano,1072.0
+531,P0531,Bluecrest Office Supplies 531,Books & Stationery,Office Supplies,Nova,1015.0
+532,P0532,Orbit Office Supplies 532,Books & Stationery,Office Supplies,Urbano,387.0
+533,P0533,Kriya Office Supplies 533,Books & Stationery,Office Supplies,Kriya,600.0
+534,P0534,Alto Office Supplies 534,Books & Stationery,Office Supplies,Zenix,975.0
+535,P0535,Vistara Office Supplies 535,Books & Stationery,Office Supplies,Vistara,807.0
+536,P0536,Bluecrest Office Supplies 536,Books & Stationery,Office Supplies,Lumo,303.0
+537,P0537,Bluecrest Office Supplies 537,Books & Stationery,Office Supplies,Bluecrest,1451.0
+538,P0538,Vistara Office Supplies 538,Books & Stationery,Office Supplies,Kriya,353.0
+539,P0539,Bluecrest Office Supplies 539,Books & Stationery,Office Supplies,Vistara,1263.0
+540,P0540,Kriya Office Supplies 540,Books & Stationery,Office Supplies,Primea,1418.0
+541,P0541,Vistara Office Supplies 541,Books & Stationery,Office Supplies,Primea,101.0
+542,P0542,Primea Office Supplies 542,Books & Stationery,Office Supplies,Zenix,187.0
+543,P0543,Urbano Office Supplies 543,Books & Stationery,Office Supplies,Zenix,309.0
+544,P0544,Kriya Office Supplies 544,Books & Stationery,Office Supplies,Orbit,542.0
+545,P0545,Urbano Office Supplies 545,Books & Stationery,Office Supplies,Bluecrest,288.0
+546,P0546,Nova Office Supplies 546,Books & Stationery,Office Supplies,Nova,1077.0
+547,P0547,Kriya Office Supplies 547,Books & Stationery,Office Supplies,Alto,111.0
+548,P0548,Zenix Office Supplies 548,Books & Stationery,Office Supplies,Alto,517.0
+549,P0549,Urbano Office Supplies 549,Books & Stationery,Office Supplies,Kriya,342.0
+550,P0550,Kriya Office Supplies 550,Books & Stationery,Office Supplies,Vistara,266.0
+551,P0551,Urbano Office Supplies 551,Books & Stationery,Office Supplies,Primea,795.0
+552,P0552,Nova Office Supplies 552,Books & Stationery,Office Supplies,Bluecrest,202.0
+553,P0553,Bluecrest Art Supplies 553,Books & Stationery,Art Supplies,Vistara,103.0
+554,P0554,Kriya Art Supplies 554,Books & Stationery,Art Supplies,Bluecrest,797.0
+555,P0555,Urbano Art Supplies 555,Books & Stationery,Art Supplies,Lumo,600.0
+556,P0556,Urbano Art Supplies 556,Books & Stationery,Art Supplies,Bluecrest,363.0
+557,P0557,Primea Art Supplies 557,Books & Stationery,Art Supplies,Urbano,985.0
+558,P0558,Alto Art Supplies 558,Books & Stationery,Art Supplies,Lumo,1418.0
+559,P0559,Urbano Art Supplies 559,Books & Stationery,Art Supplies,Lumo,200.0
+560,P0560,Lumo Art Supplies 560,Books & Stationery,Art Supplies,Vistara,625.0
+561,P0561,Vistara Art Supplies 561,Books & Stationery,Art Supplies,Alto,221.0
+562,P0562,Lumo Art Supplies 562,Books & Stationery,Art Supplies,Vistara,321.0
+563,P0563,Vistara Art Supplies 563,Books & Stationery,Art Supplies,Nova,1278.0
+564,P0564,Alto Art Supplies 564,Books & Stationery,Art Supplies,Vistara,1421.0
+565,P0565,Urbano Art Supplies 565,Books & Stationery,Art Supplies,Primea,286.0
+566,P0566,Vistara Art Supplies 566,Books & Stationery,Art Supplies,Bluecrest,182.0
+567,P0567,Bluecrest Art Supplies 567,Books & Stationery,Art Supplies,Kriya,791.0
+568,P0568,Vistara Art Supplies 568,Books & Stationery,Art Supplies,Primea,128.0
+569,P0569,Nova Art Supplies 569,Books & Stationery,Art Supplies,Zenix,143.0
+570,P0570,Bluecrest Art Supplies 570,Books & Stationery,Art Supplies,Orbit,109.0
+571,P0571,Lumo Art Supplies 571,Books & Stationery,Art Supplies,Vistara,1413.0
+572,P0572,Alto Art Supplies 572,Books & Stationery,Art Supplies,Primea,730.0
+573,P0573,Orbit Art Supplies 573,Books & Stationery,Art Supplies,Zenix,244.0
+574,P0574,Nova Art Supplies 574,Books & Stationery,Art Supplies,Orbit,779.0
+575,P0575,Kriya Art Supplies 575,Books & Stationery,Art Supplies,Bluecrest,637.0

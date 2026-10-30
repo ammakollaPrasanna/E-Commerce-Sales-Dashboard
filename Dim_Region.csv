@@ -1,0 +1,24 @@
+RegionKey,Country,Region,State,City
+1,India,South,Telangana,Hyderabad
+2,India,South,Telangana,Warangal
+3,India,South,Karnataka,Bengaluru
+4,India,South,Karnataka,Mysuru
+5,India,South,Tamil Nadu,Chennai
+6,India,South,Tamil Nadu,Coimbatore
+7,India,South,Kerala,Kochi
+8,India,North,Delhi,New Delhi
+9,India,North,Punjab,Ludhiana
+10,India,North,Punjab,Amritsar
+11,India,North,Uttar Pradesh,Lucknow
+12,India,North,Uttar Pradesh,Noida
+13,India,West,Maharashtra,Mumbai
+14,India,West,Maharashtra,Pune
+15,India,West,Gujarat,Ahmedabad
+16,India,West,Gujarat,Surat
+17,India,West,Rajasthan,Jaipur
+18,India,East,West Bengal,Kolkata
+19,India,East,Odisha,Bhubaneswar
+20,India,East,Bihar,Patna
+21,India,Central,Madhya Pradesh,Bhopal
+22,India,Central,Madhya Pradesh,Indore
+23,India,Central,Chhattisgarh,Raipur
